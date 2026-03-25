@@ -1,3 +1,6 @@
+### Nama: Reyhan Adi Satrio.
+### NRP: 5027251080.
+
 # Laporan Tugas: Program ATM Sederhana (PPOB)
 
 ## 1. Deskripsi Kasus
