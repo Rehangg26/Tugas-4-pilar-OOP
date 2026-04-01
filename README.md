@@ -164,6 +164,4 @@ public class ATM {
 
 Agar berbeda dengan teman-teman yang lain, program saya memiliki dua poin kecil yang saya tambahkan sendiri:
 
-1.  **Sistem "Saldo Mengendap"**: Di kelas `TarikTunai`, saya tidak membiarkan saldo sampai Rp0. Saya memberikan logika tambahan agar nasabah tidak bisa menarik uang jika sisa saldonya nanti di bawah batas minimal (misal Rp50.000).
-2.  **Format Struk "User-Friendly"**: Saya menambahkan garis-garis pembatas sederhana (`=======`) dan pesan penutup "Jangan lupa ambil kartu" agar interaksi di terminal terasa lebih nyata seperti menggunakan mesin ATM asli di bank.
-3.  **Simulasi Delay Verifikasi**: Ada pesan "Sistem sedang memverifikasi..." yang memberikan kesan bahwa program sedang berkomunikasi dengan server bank, bukan sekadar hitungan matematika biasa.
+1.  **Format Struk "User-Friendly"**: Saya menambahkan garis-garis pembatas sederhana (`=======`) dan pesan penutup "Jangan lupa ambil kartu" agar interaksi di terminal terasa lebih nyata seperti menggunakan mesin ATM asli di bank.
