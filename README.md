@@ -160,7 +160,7 @@ public class ATM {
 * **Pewarisan (Inheritance)**: `TarikTunai` dan `SetorTunai` itu anak dari `TransaksiBank`. Mereka tinggal pakai variabel `nominal` dari bapaknya, tidak perlu buat baru lagi.
 * **Polimorfisme**: Di method `eksekusi`, saya bisa masukkan transaksi apa saja. Program otomatis tahu mana yang harus dijalankan tanpa perlu banyak `if-else`.
 
-## 6. Keunikan Program Saya (Personal Touch)
+## 6. Keunikan Program Saya 
 
 Agar berbeda dengan teman-teman yang lain, program saya memiliki dua poin kecil yang saya tambahkan sendiri:
 
